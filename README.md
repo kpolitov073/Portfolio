@@ -1,5 +1,5 @@
-# Портфолио с проектами "Data Science"
-# Portfolio with projects "Data Science"
+# Портфолио с проектами "Data Science" от Яндекс.Практикум
+# Portfolio with projects "Data Science" from Yandex.Practicum
 
 Тут собраны проекты по спринтам курса "Специалист по Data Science" от Яндекс.Практикум:
 1. Исследовательский анализ данных
