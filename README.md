@@ -1,30 +1,7 @@
 # Портфолио с проектами "Data Science" от Яндекс.Практикум
-# Portfolio with projects "Data Science" from Yandex.Practicum
 
-Тут собраны проекты по спринтам курса "Специалист по Data Science" от Яндекс.Практикум:
-1. Исследовательский анализ данных
-2. Статистический анализ данных
-3. Сборный проект 1 по исследовательскому и статистическому анализу
-4. Линейные модели в машинном обучении
-5. Обучение с учителем. Качество модели
-6. Сборный проект 2 по моделям и качеству
-7. Машинное обучение в бизнесе
-8. Численные методы
-9. Временные ряды
-10. Машинное обучение для текстов
-11. Компьютерное зрение
-12. Финальный проект
+| Название      | Описание      | Используемые библиотеки      |
+| ------------- | ------------- |-------------- |
+| [Исследовательский анализ](https://github.com/kpolitov073/Portfolio-yandex-praktikum-/blob/main/01.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/01.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb)  | Исследование объявлений о продаже недвижимости  | Pandas, Matplotlib |
+| Content Cell  | Content Cell  |Content Cell   |
 
-Here are collected projects on sprints of the course "Data Science Specialist" from Yandex.Practicum:
-1. Exploratory data analysis
-2. Statistical data analysis
-3. Collective project 1 on exploratory and statistical analysis
-4. Linear models in machine learning
-5. Supervised learning. Model quality
-6. Collective project 2 on models and quality
-7. Machine learning in business
-8. Numerical methods
-9. Time series
-10. Machine learning for texts
-11. Computer vision
-12. Final project
