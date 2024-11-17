@@ -23,18 +23,18 @@
 
 | Number | Title | Description | Used libraries |
 | ------ | ----- | ----------- | -------------- |
-| 1 | [Exploratory Analysis](#1) | Research of real estate listings | Pandas, Matplotlib |
-| 2 | [Statistical Analysis](#2) | Statistical analysis of data from the popular scooter rental service GoFast | Pandas, Numpy, Matplotlib, Scipy |
-| 3 | [Composite project #1](#3) | Research of video game sales indicators for the 2017 advertising campaign for an online store | Pandas, Matplotlib, Numpy, Seaborn, Scipy, Re |
-| 4 | [Linear models](#4) | Predicting milk yield and taste | Pandas, Matplotlib, Numpy, Sklearn, Seaborn, Scipy, Statsmodels |
-| 5 | [Supervised learning. Model quality](#5) | Developing a solution to increase purchasing activity | Pandas, Matplotlib, Numpy, Sklearn, Seaborn, Scipy, Statsmodels, Shap |
-| 6 | [Composite project #2](#6) | Predicting employee satisfaction and predicting employee dismissal from the company | Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Shap, Phik |
-| 7 | [Machine learning in business](#7) | Choosing a location for a well | Pandas, Numpy, Sklearn |
-| 8 | [Numerical methods](#8) | Determining the cost of cars | Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Time, Phik |
-| 9 | [Time Series](#9) | Taxi Order Forecasting | Pandas, Matplotlib, Statsmodels, Sklearn, Numpy, Catboost, Lightgbm |
-| 10 | [Machine learning for texts](#10) | Classification of comments by toxicity | Pandas, Numpy, Torch, Transformers, Re, Nltk, Seaborn, Spacy, Swifter, Matplotlib, Sklearn, Tqdm, Pymystem3, Wordcloud |
-| 11 | [Computer Vision](#11) | Determining the age of buyers from a photograph | Pandas, Matplotlib, Seaborn, Random, Os, PIL, Tensorflow |
-| 12 | [Final project](#12) | Predicting whether a subscriber will terminate a contract | Pandas, Re, Seaborn, Matplotlib, Numpy, Warnings, Joblib, Xgboost, Lightgbm, Catboost, Sklearn, Shap, Phik |
+| 1 | [Exploratory Analysis] | Research of real estate listings | Pandas, Matplotlib |
+| 2 | [Statistical Analysis] | Statistical analysis of data from the popular scooter rental service GoFast | Pandas, Numpy, Matplotlib, Scipy |
+| 3 | [Composite project #1] | Research of video game sales indicators for the 2017 advertising campaign for an online store | Pandas, Matplotlib, Numpy, Seaborn, Scipy, Re |
+| 4 | [Linear models] | Predicting milk yield and taste | Pandas, Matplotlib, Numpy, Sklearn, Seaborn, Scipy, Statsmodels |
+| 5 | [Supervised learning. Model quality] | Developing a solution to increase purchasing activity | Pandas, Matplotlib, Numpy, Sklearn, Seaborn, Scipy, Statsmodels, Shap |
+| 6 | [Composite project #2] | Predicting employee satisfaction and predicting employee dismissal from the company | Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Shap, Phik |
+| 7 | [Machine learning in business] | Choosing a location for a well | Pandas, Numpy, Sklearn |
+| 8 | [Numerical methods] | Determining the cost of cars | Pandas, Numpy, Seaborn, Matplotlib, Sklearn, Time, Phik |
+| 9 | [Time Series] | Taxi Order Forecasting | Pandas, Matplotlib, Statsmodels, Sklearn, Numpy, Catboost, Lightgbm |
+| 10 | [Machine learning for texts] | Classification of comments by toxicity | Pandas, Numpy, Torch, Transformers, Re, Nltk, Seaborn, Spacy, Swifter, Matplotlib, Sklearn, Tqdm, Pymystem3, Wordcloud |
+| 11 | [Computer Vision] | Determining the age of buyers from a photograph | Pandas, Matplotlib, Seaborn, Random, Os, PIL, Tensorflow |
+| 12 | [Final project] | Predicting whether a subscriber will terminate a contract | Pandas, Re, Seaborn, Matplotlib, Numpy, Warnings, Joblib, Xgboost, Lightgbm, Catboost, Sklearn, Shap, Phik |
 
 ### Links to projects
 1. [Exploratory Analysis](https://github.com/kpolitov073/Portfolio-yandex-praktikum-/blob/main/01.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb)
